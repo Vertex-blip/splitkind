@@ -31,7 +31,7 @@ A friendly shared expense notebook that keeps the arithmetic out of good times. 
 
 ### Thoughtful by design
 
-A distinct visual identity, generous spacing, crisp typography, and small interactions that serve a purpose. Every illustration and logo is an original SVG asset included in the repository. No external font or image service is required at runtime.
+A distinct visual identity, generous spacing, crisp typography, and small interactions that serve a purpose. Every illustration and logo is an original SVG asset included in the repository. The custom brandmark uses layered, filled geometry with an install-ready silhouette. See [the identity guide](docs/BRAND.md). No external font or image service is required at runtime.
 
 ### Useful, not just a screenshot
 
@@ -84,7 +84,7 @@ Fork this repository, enable **GitHub Pages → Deploy from a branch → main / 
 
 ## Honest boundaries
 
-This is a focused, working **v1** for a single person and browser. There is no server, account, synchronization, encryption, or hidden external API. Data in local storage can be cleared by the browser or device, so export backups of important work. Sample records are illustrative. Expense calculations are in USD, use equal shares, and do not send or track real payments.
+This is a focused, working **v1.1** for a single person and browser. There is no server, account, synchronization, encryption, or hidden external API. Data in local storage can be cleared by the browser or device, so export backups of important work. Sample records are illustrative. Expense calculations are in USD, use equal shares, and do not send or track real payments.
 
 ## What comes next
 
