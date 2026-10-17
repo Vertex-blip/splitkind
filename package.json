@@ -1,0 +1,16 @@
+{
+  "name": "splitkind",
+  "version": "1.0.0",
+  "description": "A friendly shared expense notebook that keeps the arithmetic out of good times. Equal splits, clear balances, simple settlements.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
